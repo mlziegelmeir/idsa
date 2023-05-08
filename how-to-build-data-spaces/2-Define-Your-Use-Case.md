@@ -17,10 +17,10 @@ You can find examples of our success stories and best practices in the Data Spac
 
 Find the **Data Spaces Radar** [here](https://internationaldataspaces.org/adopt/data-space-radar/)
 
-The **Data Spaces Radar Report**, with more detailed insights into the world of our data spaces can be found [here]https://internationaldataspaces.org/wp-content/uploads/dlm_uploads/Data_Spaces_Radar_Web_230307.pdf
+The **Data Spaces Radar Report**, with more detailed insights into the world of our data spaces can be found [here](https://internationaldataspaces.org/wp-content/uploads/dlm_uploads/Data_Spaces_Radar_Web_230307.pdf)
 
 The **Template for Use Cases** can be utilized for defining your own use cas. You can find it [here] ?
 
-**Position Paper**: A deeper understanding of our mission and goals, especially in relation to other initiatives, standards, and tools can be found in our various position papers which can be found [here]https://internationaldataspaces.org/publications/position-papers/. 
+**Position Paper**: A deeper understanding of our mission and goals, especially in relation to other initiatives, standards, and tools can be found in our various position papers which can be found [here](https://internationaldataspaces.org/publications/position-papers/). 
 
 Are you already a step ahead and looking for **Implementation Partners**? Skip to **Step 3**
