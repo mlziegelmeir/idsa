@@ -8,3 +8,9 @@ This document (Data Sovereignty: Updated Position Paper on Data Usage Control in
 
 The Usage Control related applications are listed as follows:
 - **MYDATA Control Technologies** MYDATA Control Technologies is a technical implementation of data sovereignty, which represents an essential component for informational self-determination. It is based on the IND2UCE framework for data usage control developed at Fraunhofer IESE. MYDATA Control Technologies implements data sovereignty by monitoring or intercepting security-relevant data flows. [MYDATA](https://www.mydata-control.de/)
+
+## Data Sharing Contracts
+In addition to usage control, data sharing contracts are also critical for ensuring secure and trustworthy data exchange in the IDS ecosystem. These contracts outline the terms and conditions for data sharing, including the rights and obligations of the parties involved, as well as the purpose and scope of data sharing. [The SITRA Rulebook](https://www.sitra.fi/en/publications/rulebook-for-a-fair-data-economy/)'s contract templates provide a useful framework for creating such contracts, as they are tailored to the specific needs and requirements of the IDS ecosystem. However, as the IDS evolves and new use cases emerge, it is important to continually update and refine these templates to ensure they remain relevant and effective. As part of this effort, the [Task Force Legal Framework](https://internationaldataspaces.org/make/working-groups/) of IDSA is working on adapting these contract templates into the IDS Rulebook, which will provide a standardized and legally compliant framework for data sharing within the IDS ecosystem. This will help to streamline the data sharing process, reduce legal and regulatory risks, and promote greater trust and collaboration among all stakeholders.
+
+
+
