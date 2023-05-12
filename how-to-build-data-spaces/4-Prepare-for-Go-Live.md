@@ -1,8 +1,5 @@
 # 4. Prepare for Go-Live
-This page is relevant for you, if
-* you aim to facilitate the integration of IDS connectors into existing ecosystems,
-* you are looking for an installation guide for the IDS Open Source components,
-* you want to certify your components.
+Step 4 explains how to facilitate the integration of IDS connectors into existing ecosystems and provides an installation guide for the IDS Open Source components. The most important facts on the Testbed and Certification can be found on this page, as well.
 
 ## Overview
 Going live with your IDS components requires some level of preparation. We provide you with all necessary means to facilitate the integration of your components in order to meet the requirements for an interoperable connection of your components. A central role for going live are played by the IDS Testbed and the IDS Certification.
