@@ -1,9 +1,5 @@
 # 2. Define Your Use Case
-
-This page is relevant for you if
-* you aim to get an overview of the current use case applications within IDSA,
-* you want to submit your own use case and try to receive some inspiration and guidance,
-* you are looking for potential implementation partners.
+This page provides you with an overview of the current use case applications within IDSA, guides through the submission process of use cases and introduces the opportunity to look for potential implementation partners.
 
 ## Overview
 IDS use cases show how our research applies to real life. They are examples and success stories that show what one can achieve by putting theory into practice. Therefore, defining your use case is important, since it provides the blueprints to build your success story, helps you realize the possible outcomes, stakeholders, but also requirements and needs that may be encountered.
@@ -19,8 +15,11 @@ Find the **Data Spaces Radar** [here](https://internationaldataspaces.org/adopt/
 
 The **Data Spaces Radar Report**, with more detailed insights into the world of our data spaces can be found [here](https://internationaldataspaces.org/wp-content/uploads/dlm_uploads/Data_Spaces_Radar_Web_230307.pdf)
 
-The **Template for Use Cases** can be utilized for defining your own use cas. You can find it [here] ?
+Joining the **Data Spaces Radar** with your own **Use Case/Data Spae** can be done by filling out our short form. You can find it [here](https://forms.office.com/Pages/ResponsePage.aspx?id=NNZGs_usx0K9RPFVfuibG3WVHeFvj2hHgjU7ZCgshUhUMExMOTdCWDNMSERJTjlIUlRKMVc0QTUxMCQlQCN0PWcu).
 
 **Position Paper**: A deeper understanding of our mission and goals, especially in relation to other initiatives, standards, and tools can be found in our various position papers which can be found [here](https://internationaldataspaces.org/publications/position-papers/). 
+
+Data Spaces offer the opprtunity new business models. Find our publicationn on **New Business Models 
+for Data Spaces Grounded in Data Sovereignty** [here](https://internationaldataspaces.org/wp-content/uploads/IDSA-Position-Paper-New-Business-Models-sneak-preview-version.pdf)
 
 Are you already a step ahead and looking for **Implementation Partners**? Skip to **Step 3**
