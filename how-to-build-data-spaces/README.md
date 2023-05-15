@@ -1,5 +1,5 @@
 # How To Build Data Spaces?
-### Welcome to The IDS Knowledge Base: Your Five-Step Approach to Building Data Spaces with Ease
+### :dart: Welcome to The IDS Knowledge Base: Your Five-Step Approach to Building Data Spaces with Ease
 
 ## Introduction
 Navigating the vast landscape of Data Spaces can be challenging due to the abundance of information and complexity of the topics. The IDS Knowledge Base was created to simplify the learning experience and provide a structured, easy-to-follow guide for building data spaces or components. Here, you'll find all the information you need to build data spaces, whether you're just starting or have some experience.
@@ -29,15 +29,16 @@ Go through IDS certification and finalize the preparation of your components for
 Go live and reap the benefits of secure and sovereign data sharing!
 
 ## Share Your Ideas to Improve the IDS Knowledge Base 
-### We want to hear from you
-We value your feedback and welcome your contributions to make the IDS Knowledge Base better. This documentation relies on the IDS expertise and experience of everyone involved. If you can't find the information you need in the knowledge base, please feel free **to contribute to it.** 
+### :mega: We want to hear from you!
+We value your feedback and welcome your contributions to make the IDS Knowledge Base better. This documentation relies on the IDS expertise and experience of everyone involved. If you can't find the information you need in the knowledge base please feel free **to contribute to the knowledge base.** 
 
 In case you are unable to locate the information you are looking for, please:
 + Open an issue that points to this topic. 
 + Add a section, link, or whatever that would fill this gap.
 + Have a look at the open issues and try to fix them.
 
+You can also open an issue in order to ask any specific questions regarding the knowledge base, share your suggestions for imporvements or provide corrections to the text. 
 Check the detailed information on [how to contribute](/how-to-build-data-spaces/CONTRIBUTING.md) for more information.
 
-### Still Can't Find What You're Looking For?
-If you still have questions, don't hesitate to contact us at [info@internationaldataspaces.org](mailto:info@internationaldataspaces.org )info@internationaldataspaces.org. We're here to help.
+### :mag_right: Still Can't Find What You're Looking For?
+If you  have any general questions regarding IDSA, don't hesitate to contact us at [info@internationaldataspaces.org](mailto:info@internationaldataspaces.org ). We're here to help.
