@@ -13,6 +13,8 @@ If you are looking for a particular asset, be sure to check out the rest of [IDS
 Every development journey is unique, and your starting point may vary depending on your knowledge and experience with IDS technologies. This guide will take you through the five general stages of building data spaces, as outlined below.
 Feel free to start from any of these steps that best suit your needs and level of understanding of IDS concepts.
 
+[<img src="https://github.com/International-Data-Spaces-Association/idsa/blob/Update_KnowledgeBase_v.20/how-to-build-data-spaces/images/step1.png" width="15%" height="15%">](/how-to-build-data-spaces/1-Gather-Knowledge.md)
+
 [1. Gather Knowledge:](/how-to-build-data-spaces/1-Gather-Knowledge.md)
 Get a better understanding of IDS core ideas and identify whether your company needs an IDS solution or aspires to support others in creating data spaces.
 
