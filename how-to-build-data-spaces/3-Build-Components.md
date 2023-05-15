@@ -5,7 +5,7 @@ When building components for a dataspace, the three main paths to follow are:
 
 :two: Alternatively, you can use [IDS Reference Testbed as a Minimum Viable Data Space](https://github.com/International-Data-Spaces-Association/IDS-testbed/blob/master/minimum-viable-data-space/MVDS.md) which consists of just enough features to create a working dataspace with secure and sovereign data exchange. 
 
-:three: [IDS-Basecamp](https://github.com/International-Data-Spaces-Association/IDS-BaseCamp) can be used as a more mature industry-grade solution.
+:three: [IDS-Basecamp](https://github.com/International-Data-Spaces-Association/IDS-BaseCamp) can be used as a more mature industry-grade solution. IDS Basecamp is an open-source solution that aims to help organizations agilely initiate an industry-ready data space for secure and sovereign data sharing, as defined by IDSA. Compared to other alternatives to quickly initiate a dataspace, IDS Basecamp has a higher level of maturity.
 
 In all three options, [IDS Graduation Scheme](https://github.com/International-Data-Spaces-Association/idsa/blob/main/graduation_scheme/Projects.md) and [Data Connector Report](https://internationaldataspaces.org/data-connector-report/) can be helpful resources to support the implementation process of dataspaces. 
 
