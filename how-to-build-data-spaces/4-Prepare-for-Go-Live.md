@@ -44,9 +44,9 @@ The entire certification process consists of three steps as shown on the ["How t
 #
 
 ## Beyond that
-* In order to understand the importance of interoperability and certification, take a look at our **Position Papers** which dive deeper into the relation of IDS components and the components of other initiatives. Access the **Position Papers** [here](https://internationaldataspaces.org/publications/position-papers/)
+:arrow_forward: In order to understand the importance of interoperability and certification, take a look at our **Position Papers** which dive deeper into the relation of IDS components and the components of other initiatives. Access the **Position Papers** [here](https://internationaldataspaces.org/publications/position-papers/)
 
-* SQS is the first approved **IDS Evaluation Facility** and the accredited laboratory for validating components according to the IDSA standards for rusted and sovereign data sharing. Find more details [here](https://www.sqs.es/qaas/?lang=en#q-idsa)
+:arrow_forward: SQS is the first approved **IDS Evaluation Facility** and the accredited laboratory for validating components according to the IDSA standards for rusted and sovereign data sharing. Find more details [here](https://www.sqs.es/qaas/?lang=en#q-idsa)
 
-* A more general overview of IDS Certification can be found [here](https://internationaldataspaces.org/offers/certification/).
+:arrow_forward: A more general overview of IDS Certification can be found [here](https://internationaldataspaces.org/offers/certification/).
 
