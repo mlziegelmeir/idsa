@@ -18,14 +18,14 @@ The IDS data space is intended to support a wide range of applications and indus
 
 :arrow_forward:**IDS Reference Architecture Model (IDS RAM)**
 
-[The IDS RAM](https://docs.internationaldata spaces.org/ids-ram-4/) is the beating heart of the IDS. It includes the standards for secure and sovereign data exchange, certification, and governance. The RAM serves as the blueprint for trusted ecosystems for data exchange and processing.
+[The IDS RAM](https://docs.internationaldataspaces.org/ids-ram-4/) is the beating heart of the IDS. It includes the standards for secure and sovereign data exchange, certification, and governance. The RAM serves as the blueprint for trusted ecosystems for data exchange and processing.
 
 Since the release of v4.0, the IDS RAM is available as a Gitbook page and also has a repository on [IDS Github](https://github.com/International-Data-Spaces-Association/IDS-RAM_4_0) to raise issues and contribute to it.
 
 
 :arrow_forward:**IDS Rulebook**
 
-The [IDSA rulebook](https://docs.internationaldata spaces.org/idsa-rulebook-v2/) serves several purposes regarding the development and operation of data spaces. The aim is to describe clearly which rules are mandatory and which are optional guidelines. This governance framework includes functional, technical, operational, and legal dimensions:
+The [IDSA rulebook](https://docs.internationaldataspaces.org/idsa-rulebook-v2/) serves several purposes regarding the development and operation of data spaces. The aim is to describe clearly which rules are mandatory and which are optional guidelines. This governance framework includes functional, technical, operational, and legal dimensions:
 - Guidelines for the functionality of common services are presented as well as the definition, processes, and services of specific roles.
 - Guidelines how to implement or use a technical artefact of the IDSA.
 - Guidelines for the work and collaboration within data services.
@@ -38,7 +38,7 @@ IDSA Rulebook also has a [Github repository](https://github.com/International-Da
 The [IDS Glossary](https://github.com/International-Data-Spaces-Association/IDS-G/tree/main/Glossary) is a collection of definitions for key terms related to the International Data Spaces (IDS). It serves as a reference for understanding the fundamental concepts and vocabulary used in the IDS ecosystem.
 
 
-:arrow_forward:**IDS Standard (DIN SPEC 27070)** – The DIN SPEC 27070 is a confidential document that specifies the technical requirements and the reference architecture of a Security Gateway for the exchange of industry data and services. Based on the principles of data sovereignty, the Security Gateway facilitates secure exchange of data and allows providing and using trustworthy data services. [Request access to the document here.](https://internationaldata spaces.org/din-spec-27070/) 
+:arrow_forward:**IDS Standard (DIN SPEC 27070)** – The DIN SPEC 27070 is a confidential document that specifies the technical requirements and the reference architecture of a Security Gateway for the exchange of industry data and services. Based on the principles of data sovereignty, the Security Gateway facilitates secure exchange of data and allows providing and using trustworthy data services. [Request access to the document here.](https://internationaldataspaces.org/din-spec-27070/) 
 
 
 :arrow_forward:**IDSA, GAIA-X, DSBA (Data Spaces Business Alliance), DSSC (Data Spaces Support Centre)** - 
