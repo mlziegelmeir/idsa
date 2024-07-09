@@ -18,14 +18,14 @@ The IDS data space is intended to support a wide range of applications and indus
 
 :arrow_forward:**IDS Reference Architecture Model (IDS RAM)**
 
-[The IDS RAM](https://docs.internationaldata spaces.org/ids-ram-4/) is the beating heart of the IDS. It includes the standards for secure and sovereign data exchange, certification, and governance. The RAM serves as the blueprint for trusted ecosystems for data exchange and processing.
+[The IDS RAM](https://docs.internationaldataspaces.org/ids-ram-4/) is the beating heart of the IDS. It includes the standards for secure and sovereign data exchange, certification, and governance. The RAM serves as the blueprint for trusted ecosystems for data exchange and processing.
 
 Since the release of v4.0, the IDS RAM is available as a Gitbook page and also has a repository on [IDS Github](https://github.com/International-Data-Spaces-Association/IDS-RAM_4_0) to raise issues and contribute to it.
 
 
 :arrow_forward:**IDS Rulebook**
 
-The [IDSA rulebook](https://docs.internationaldata spaces.org/idsa-rulebook-v2/) serves several purposes regarding the development and operation of data spaces. The aim is to describe clearly which rules are mandatory and which are optional guidelines. This governance framework includes functional, technical, operational, and legal dimensions:
+The [IDSA rulebook](https://docs.internationaldataspaces.org/idsa-rulebook-v2/) serves several purposes regarding the development and operation of data spaces. The aim is to describe clearly which rules are mandatory and which are optional guidelines. This governance framework includes functional, technical, operational, and legal dimensions:
 - Guidelines for the functionality of common services are presented as well as the definition, processes, and services of specific roles.
 - Guidelines how to implement or use a technical artefact of the IDSA.
 - Guidelines for the work and collaboration within data services.
